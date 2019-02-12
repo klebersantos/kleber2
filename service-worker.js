@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kleber2/precache-manifest.383b4b83e15c8293acdab0fd1daa103b.js"
+  "/kleber2/precache-manifest.3f62528391a056b1f2269f3874fd7e7a.js"
 );
 
 workbox.clientsClaim();
