@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "460e4326401d4ff90f61",
+    "revision": "386fa952e51c6dad0ca2",
     "url": "/kleber2/static/css/main.278069db.chunk.css"
   },
   {
-    "revision": "460e4326401d4ff90f61",
-    "url": "/kleber2/static/js/main.460e4326.chunk.js"
+    "revision": "386fa952e51c6dad0ca2",
+    "url": "/kleber2/static/js/main.386fa952.chunk.js"
   },
   {
     "revision": "754aa13b2442a57bcddb",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/kleber2/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "fde155077eae8f13e9799236ef9c2f35",
+    "revision": "2d27e01bba5262aa1e445f3739f0df2a",
     "url": "/kleber2/index.html"
   }
 ];
